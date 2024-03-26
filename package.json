@@ -1,0 +1,32 @@
+{
+  "name": "sitnecessitatibus",
+  "version": "1.7.1",
+  "description": "Lossless LZW compression/decompression implemented in JavaScript for strings/JSON/JS objects.",
+  "main": "lzwCompress.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DeonReichert/sitnecessitatibus.git"
+  },
+  "keywords": [
+    "lzw",
+    "velit",
+    "compress",
+    "amet"
+  ],
+  "author": "TryciaMayer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeonReichert/sitnecessitatibus.git/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.9.2",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-watch": "~0.6.1",
+    "load-grunt-tasks": "~0.4.0",
+    "time-grunt": "^0.3.1",
+    "jshint-stylish": "~0.1.5"
+  }
+}
